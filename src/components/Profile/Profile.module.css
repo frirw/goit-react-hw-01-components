@@ -20,6 +20,7 @@
 .avatar {
   border-radius: 50%;
   background-color: #c1c1c1;
+  width: 80px;
 }
 
 .name {
